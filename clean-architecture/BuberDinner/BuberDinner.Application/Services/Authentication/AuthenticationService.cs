@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BuberDinner.Application.Common.Interfaces.Authentication;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,16 +9,38 @@ namespace BuberDinner.Application.Services.Authentication
 {
     public class AuthenticationService : IAuthenticationService
     {
-        public AuthenticationService() { }
+        private readonly IJwtTokenGenerator _jwtTokenGenerator;
+        public AuthenticationService(IJwtTokenGenerator jwtTokenGenerator) 
+        {
+            _jwtTokenGenerator = jwtTokenGenerator;
+        }
 
         public async Task<AuthenticationResult> Login(string email, string password)
         {
-            return await Task.FromResult(new AuthenticationResult(Guid.Empty, "firstName", "lastName", email, "accessToken"));
+            return 
+                await Task.FromResult
+                    (new AuthenticationResult
+                        (Guid.Empty,
+                         "firstName",
+                         "lastName",
+                         email,
+                         "accessToken"));
         }
 
         public async Task<AuthenticationResult> Register(string firstName, string lastName, string email)
         {
-            return await Task.FromResult(new AuthenticationResult(Guid.NewGuid(), firstName, lastName, email, "accessToken"));
+            var userId = Guid.NewGuid();
+            var accessToken = _jwtTokenGenerator.GenerateToken(userId, firstName, lastName);
+
+            return 
+                await Task.FromResult
+                    (new AuthenticationResult(
+                        userId, 
+                        firstName, 
+                        lastName, 
+                        email,
+                        accessToken)
+                    );
         }
     }
 }

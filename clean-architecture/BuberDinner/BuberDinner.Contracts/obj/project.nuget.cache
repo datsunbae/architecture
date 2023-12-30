@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fil4qQvVX0lqhtZHdEcRPPcxxDMeoCs1KcVMyOIQhNL9ZQM9Qtib98u8oE9Vxi86CahO1EkWHlyG9FwQrTI1Q==",
+  "dgSpecHash": "y5ZUQh4/f8izZPFrm6yDvqTCy98S4bl6/yCozxYAPfnZhCXyc/5pncS6Lj7B0fFrH69ZBcLGtcyAopqNS0Ni5A==",
   "success": true,
-  "projectFilePath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

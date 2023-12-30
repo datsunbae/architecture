@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {}
+    "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\datsu\\.nuget\\packages\\",
-        "outputPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\datsu\\.nuget\\packages\\",
-        "outputPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\datsu\\.nuget\\packages\\",
-        "outputPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "outputPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
@@ -163,6 +163,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

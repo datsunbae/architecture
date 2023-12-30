@@ -10,3 +10,15 @@ D:\datsunbae\Workspace\Project\clean-architecture\BuberDinner\BuberDinner.Contra
 D:\datsunbae\Workspace\Project\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
 D:\datsunbae\Workspace\Project\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
 D:\datsunbae\Workspace\Project\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.deps.json
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.dll
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.dll
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\datsunbae\Workspace\Project\architecture\clean-architecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll

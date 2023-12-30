@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectUniqueName": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "packagesPath": "C:\\Users\\datsu\\.nuget\\packages\\",
-      "outputPath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+      "outputPath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\datsu\\AppData\\Roaming\\NuGet\\NuGet.Config",

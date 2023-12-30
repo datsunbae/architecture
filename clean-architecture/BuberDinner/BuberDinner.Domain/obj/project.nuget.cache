@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4EzsFr0XZ2loiTQTEIpuQ17+vx9LhlVGqggk07MLBAm/yzwMv5UoEqSFxafuVDdIr0pYnAGUKOhAoFuqEP0PA==",
+  "dgSpecHash": "O3doCVmCcuNN86WN0KCw2x/Q6WwuGJb7uWQStVwyYoyataX962oN3b7xPz66RoQXrcLPbnlxvAVwdZapPopyfg==",
   "success": true,
-  "projectFilePath": "D:\\datsunbae\\Workspace\\Project\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "D:\\datsunbae\\Workspace\\Project\\architecture\\clean-architecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
